@@ -21,4 +21,4 @@ Los datos están cargados en Github, por lo que se puede acceder a ellos desde l
 El acceso a estos datos ya se encuentra listo en cada Colab.
 
 - Video Entrega 2: https://youtu.be/uObVi9eAc88
-- Video Entrega Final: https://youtu.be/1JSDrg56HOc
+- Video Entrega Final: https://youtu.be/Kk31u7h6Y9I
